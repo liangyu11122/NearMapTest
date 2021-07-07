@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnz0ACFF74A1DjOf0dgHHTsN3YIG210YR8JSBcgXo/cw7ObwEpkZvQ0Y+8p2a2z4v1PGwkKx5OTpi+49/5MS6A==",
+  "success": true,
+  "projectFilePath": "D:\\NearMap\\nearmap-csharp-test-master\\nearmap-csharp-test-master\\NMTest.DataSource\\NMTest.DataSource.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\1.1.0\\microsoft.extensions.caching.abstractions.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\microsoft.extensions.caching.memory\\1.1.0\\microsoft.extensions.caching.memory.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\1.1.0\\microsoft.extensions.dependencyinjection.abstractions.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\microsoft.extensions.options\\1.1.0\\microsoft.extensions.options.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\microsoft.extensions.primitives\\1.1.0\\microsoft.extensions.primitives.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Jeff.Liang\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.3.0\\system.runtime.compilerservices.unsafe.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

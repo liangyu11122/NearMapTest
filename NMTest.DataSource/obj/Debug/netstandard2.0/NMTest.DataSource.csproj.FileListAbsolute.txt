@@ -1,0 +1,9 @@
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\bin\Debug\netstandard2.0\NMTest.DataSource.deps.json
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\bin\Debug\netstandard2.0\NMTest.DataSource.dll
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\bin\Debug\netstandard2.0\NMTest.DataSource.pdb
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\obj\Debug\netstandard2.0\NMTest.DataSource.csprojAssemblyReference.cache
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\obj\Debug\netstandard2.0\NMTest.DataSource.AssemblyInfoInputs.cache
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\obj\Debug\netstandard2.0\NMTest.DataSource.AssemblyInfo.cs
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\obj\Debug\netstandard2.0\NMTest.DataSource.csproj.CoreCompileInputs.cache
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\obj\Debug\netstandard2.0\NMTest.DataSource.dll
+D:\NearMap\nearmap-csharp-test-master\nearmap-csharp-test-master\NMTest.DataSource\obj\Debug\netstandard2.0\NMTest.DataSource.pdb
