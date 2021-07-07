@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=123b7593_002D5a7e_002D4600_002Dafda_002D94cc4a532294/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSetObjectFromCacheInvalid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::E016A67C-9785-45FB-9FF6-7BC199F0A9EE::.NETCoreApp,Version=v3.1::NMTest.Test.DistributedCacheStoreTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::E016A67C-9785-45FB-9FF6-7BC199F0A9EE::.NETCoreApp,Version=v3.1::NMTest.Test.DatabaseStoreTests.TestLoadFromDatabase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::E016A67C-9785-45FB-9FF6-7BC199F0A9EE::.NETCoreApp,Version=v3.1::NMTest.Test.DatabaseStoreTests.TestGetValueFromDatabase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::E016A67C-9785-45FB-9FF6-7BC199F0A9EE::.NETCoreApp,Version=v3.1::NMTest.Test.ProgramHelperTests.TestGenerateRandomKey&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::E016A67C-9785-45FB-9FF6-7BC199F0A9EE::.NETCoreApp,Version=v3.1::NMTest.Test.ProgramHelperTests.TestIsValidValue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9cba60b6_002D6a3a_002D40d1_002D9b1a_002D6011a7d3418c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestProcessSingleThreadEmptyCacheValue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E016A67C-9785-45FB-9FF6-7BC199F0A9EE::.NETCoreApp,Version=v3.1::NMTest.Test.ProgramTests.TestProcessSingleThreadEmptyCacheValue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ccfafab2_002D4f0e_002D490f_002Da8f4_002D47c073ce44c1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProgramTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E016A67C-9785-45FB-9FF6-7BC199F0A9EE::.NETCoreApp,Version=v3.1::NMTest.Test.ProgramTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::E016A67C-9785-45FB-9FF6-7BC199F0A9EE::.NETCoreApp,Version=v3.1::NMTest.Test.DistributedCacheStoreTests.TestSetObjectFromCache&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
